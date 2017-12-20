@@ -1,0 +1,35 @@
+{
+  "name": "linux-win-pos",
+  "version": "1.0.0",
+  "description": "Saves & recalls window positions on Linux systems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonnyasmar/linux-win-pos.git"
+  },
+  "keywords": [
+    "linux",
+    "windows",
+    "positioning",
+    "tile",
+    "manager",
+    "tiling",
+    "ubuntu",
+    "unity",
+    "elementary",
+    "os",
+    "gnome",
+    "wmctrl",
+    "node",
+    "nodejs"
+  ],
+  "author": "Jonny Asmar",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jonnyasmar/linux-win-pos/issues"
+  },
+  "homepage": "https://github.com/jonnyasmar/linux-win-pos#readme"
+}
