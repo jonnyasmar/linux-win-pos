@@ -1,9 +1,13 @@
 {
   "name": "linux-win-pos",
-  "version": "1.0.0",
+  "version": "1.0.10",
   "description": "Saves & recalls window positions on Linux systems.",
   "main": "index.js",
+  "bin": {
+    "linux-win-pos": "index.js"
+  },
   "scripts": {
+    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -31,5 +35,9 @@
   "bugs": {
     "url": "https://github.com/jonnyasmar/linux-win-pos/issues"
   },
-  "homepage": "https://github.com/jonnyasmar/linux-win-pos#readme"
+  "homepage": "https://github.com/jonnyasmar/linux-win-pos#readme",
+  "dependencies": {
+    "merge-deep": "^3.0.0",
+    "shell-escape": "^0.2.0"
+  }
 }
