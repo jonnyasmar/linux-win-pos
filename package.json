@@ -1,6 +1,6 @@
 {
   "name": "linux-win-pos",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Saves & recalls window positions on Linux systems.",
   "main": "index.js",
   "bin": {

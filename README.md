@@ -17,6 +17,8 @@ Written in Node to illustrate it's versatility and capability as a desktop utili
 - Blinks the screen when done positioning.
 - See `src/options.js` for more capabilities.
 
+#### Please star this repo if you find it useful!
+
 ### Demo
 
 [![Demo Video of linux-win-pos In Action](https://i.ytimg.com/vi/fyXDNax3BUg/hqdefault.jpg)](https://www.youtube.com/watch?v=fyXDNax3BUg)
@@ -26,7 +28,7 @@ Written in Node to illustrate it's versatility and capability as a desktop utili
 - Node + NPM; *Built on 7.10.1 + 5.6.0*
 - `wmctrl`, `xrandr`, `xdotool`, `xprop`, `xcalib`; *You should have most of these, but they can all be easily installed with `sudo apt-get install`*
 
-*This should also work in most other flavors, but needs more thorough testing of window decoration interaction.
+*This should also work in most other flavors, but needs more thorough testing of window decoration interaction.*
 
 # Getting Started
 
